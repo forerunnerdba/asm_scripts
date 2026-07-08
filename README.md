@@ -31,7 +31,7 @@ A comprehensive, production-ready shell script for daily monitoring and troubles
 
 Edit the top section of the script:
 
-#!/bin/bash
+```#!/bin/bash 
 ORACLE_SID="+ASM1"
 ORACLE_HOME="/u01/app/oracle/product/19.0.0/grid"
 EMAIL_TO="your.email@company.com"
