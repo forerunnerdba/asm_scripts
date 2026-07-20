@@ -1,7 +1,7 @@
 #!/bin/bash
 # ================================================
 # Oracle ASM Daily Health Check Script - v1.1
-# Author: Chakravarthy Patchigoll
+# Author: Chakravarthy Patchigolla
 # Features: Error handling, Email notification, Logging
 # ================================================
 
