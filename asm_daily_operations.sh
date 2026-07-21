@@ -13,7 +13,6 @@ $ . asm.env
 
 #You can start asmcmd in two modes: with the -p option or without it. The -p flag displays the current working directory in the prompt.
 $ asmcmd 
-
 $ asmcmd -p
 
 #You can run ASMCMD in Interactive and Non-Interactive modes.
