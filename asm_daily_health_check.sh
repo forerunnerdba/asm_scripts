@@ -10,7 +10,7 @@ ORACLE_SID=+ASM1
 ORACLE_HOME=/u01/app/19.3.0/grid
 OUTPUT_FILE="asm_daily_report_$(date +%Y%m%d_%H%M).txt"
 LOG_FILE="asm_health_check.log"
-EMAIL_TO="tochakravarthy@gmail.com"          # Change this
+EMAIL_TO="dba-team@example.com"          # Change this
 EMAIL_SUBJECT="ASM Daily Health Check Report - $(hostname) - $(date +%Y-%m-%d)"
 
 # Export Oracle environment
